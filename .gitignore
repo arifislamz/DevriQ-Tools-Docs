@@ -1,0 +1,50 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+
+# Node (if using build tools)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+dist/
+build/
+out/
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS temp files
+._*
+.Spotlight-V100
+.Trashes
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Local development
+.DS_Store
+*.tmp
+
+# IDE Settings (keep .gitignore itself)
+!.gitignore
