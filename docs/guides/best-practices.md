@@ -265,7 +265,7 @@ Input  | Tool   | Output | Result | Use
 **Workflow:**
 1. Write in Word
 2. Convert to PDF → [Word to PDF](../tools/pdf/word-to-pdf.md)
-3. Secure document → [PDF Password Protector](../tools/pdf/pdf-password-protector.md)
+3. Secure document → [PDF Password Protector](../tools/pdf/protect-pdf.md)
 4. Number pages → [PDF Page Number Adder](../tools/pdf/pdf-page-numbers.md)
 5. Distribute securely!
 
@@ -281,7 +281,7 @@ Input  | Tool   | Output | Result | Use
 1. Format code → [HTML Formatter](../tools/dev/html-formatter.md)
 2. Minify CSS → [CSS Minifier](../tools/dev/css-minifier.md)
 3. Minify JS → [JS Minifier](../tools/dev/js-minifier.md)
-4. Validate JSON → [JSON Formatter](../tools/dev/json-formatter.md)
+4. Validate JSON → [JSON Formatter](../tools/dev/online-json-formatter-validator.md)
 5. Deploy optimized!
 
 **Benefits:**

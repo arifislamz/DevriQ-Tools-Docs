@@ -51,28 +51,32 @@ Open your browser and go to: **[https://tools.devriq.in](https://tools.devriq.in
 
 ### Step 2: Choose Your Category (20 seconds)
 Browse the main categories:
-- 🤖 **AI Tools** — Artificial intelligence utilities
-- 📄 **PDF Tools** — Document manipulation (13 tools)
-- 🖼️ **Image Tools** — Image processing (12 tools)
-- 💻 **Dev Utilities** — Developer tools (18 tools)
-- ✍️ **Text Tools** — Text manipulation
-- 🧮 **Calculators** — Specialized calculators
-- 📱 **Social Media** — Social content tools
-- 🏢 **Office Tools** — Business utilities
-- 🔍 **SEO Tools** — Search optimization
-- And more...
+- 🤖 [**AI Tools (11 Tools)**](./categories/AI_TOOLS.md) — Artificial intelligence writing, code explanation, and summarization
+- 📄 [**PDF Tools (20 Tools)**](./categories/PDF_TOOLS.md) — Document merge, split, compress, edit, and convert
+- 🖼️ [**Image Tools (14 Tools)**](./categories/IMAGE_TOOLS.md) — Background removal, compression, resizing, and SVG conversion
+- 💻 [**Developer Utilities (18 Tools)**](./categories/DEV_UTILITIES.md) — Formatters, minifiers, encoders, and regex
+- ✍️ [**Text Tools (12 Tools)**](./categories/TEXT_TOOLS.md) — Plagiarism check, word count, diff, sorting, and styling
+- 🧮 [**Calculators (14 Tools)**](./categories/CALCULATORS.md) — Financial, health, date, and scientific calculators
+- 📱 [**Social Media Tools (6 Tools)**](./categories/SOCIAL_MEDIA.md) — High-res media and cover downloaders
+- 💼 [**Business Tools (2 Tools)**](./categories/BUSINESS_TOOLS.md) — Automated invoicing and business cards
+- 🔍 [**SEO & Webmaster Tools (3 Tools)**](./categories/SEO_TOOLS.md) — XML sitemaps, meta tags, and domain age check
+- 🛍️ [**Shopping Tools (1 Tool)**](./categories/SHOPPING_TOOLS.md) — Product deal discovery and price comparisons
+- 🏢 [**Office Productivity Hub**](./categories/OFFICE_TOOLS.md) — Integrated paperless business workflows
 
 ### Step 3: Select Your Tool (15 seconds)
-Click on the tool you need. For example:
-- [PDF Merger](https://tools.devriq.in/merge-pdf-files-online/) — Combine PDFs
-- [Image Compressor](https://tools.devriq.in/image-compressor/) — Reduce image size
-- [JSON Formatter](https://tools.devriq.in/online-json-formatter-validator/) — Format JSON
+Click on any tool from our [Master Tools Directory](./TOOLS_DIRECTORY.md) or open directly online:
+- [PDF Merger](https://tools.devriq.in/merge-pdf-files-online/) — Combine unlimited PDFs
+- [Image Compressor](https://tools.devriq.in/image-compressor/) — Shrink images with zero quality loss
+- [JSON Formatter](https://tools.devriq.in/online-json-formatter-validator/) — Validate and beautify JSON
+- [AI Article Summarizer](https://tools.devriq.in/ai-article-summarizer/) — Summarize articles into executive takeaways
+- [Invoice Generator](https://tools.devriq.in/invoice-generator/) — Create professional PDF invoices
+- [Age Calculator](https://tools.devriq.in/age-calculator/) — Calculate exact chronological age and milestones
 
 ### Step 4: Use the Tool (15 seconds)
-Upload your file or enter your data, configure settings, and click the action button.
+Upload your file or paste your data, configure optional settings, and click the action button.
 
-### Step 5: Download Results (Free!)
-Download your results instantly. Done! 🎉
+### Step 5: Download Results (100% Free!)
+Download your results or copy to clipboard immediately with zero watermarks. Done! 🎉
 
 ---
 
@@ -140,7 +144,7 @@ Look for these indicators that confirm your data stays private:
 5. Click "Merge PDFs"
 6. Download your combined file
 
-[→ Full PDF Merger Guide](./docs/tools/pdf/merge-pdf.md)
+[→ Full PDF Merger Guide](./tools/pdf/merge-pdf-files-online.md)
 
 ### Task 2: Compress an Image
 **Goal**: Reduce image file size without losing quality
@@ -153,7 +157,7 @@ Look for these indicators that confirm your data stays private:
 
 **Pro Tip**: Adjust quality slider to find the best balance
 
-[→ Full Image Compressor Guide](./docs/tools/image/image-compressor.md)
+[→ Full Image Compressor Guide](./tools/image/image-compressor.md)
 
 ### Task 3: Format JSON Code
 **Goal**: Clean up messy JSON for readability
@@ -164,7 +168,7 @@ Look for these indicators that confirm your data stays private:
 4. Tool automatically validates and highlights errors
 5. Copy the formatted result
 
-[→ Full JSON Formatter Guide](./docs/tools/dev/json-formatter.md)
+[→ Full JSON Formatter Guide](./tools/dev/online-json-formatter-validator.md)
 
 ### Task 4: Generate QR Code
 **Goal**: Create a QR code for a URL or text
@@ -175,7 +179,7 @@ Look for these indicators that confirm your data stays private:
 4. Click "Generate"
 5. Download as PNG or SVG
 
-[→ Full QR Code Guide](./docs/tools/dev/qr-code-generator.md)
+[→ Full QR Code Guide](./tools/dev/free-qr-code-generator.md)
 
 ### Task 5: Remove Image Background
 **Goal**: Automatically remove background from a photo
@@ -186,7 +190,7 @@ Look for these indicators that confirm your data stays private:
 4. Download or edit further
 5. Use in your design
 
-[→ Full Background Remover Guide](./docs/tools/image/background-remover.md)
+[→ Full Background Remover Guide](./tools/image/background-remover.md)
 
 ---
 
@@ -265,7 +269,7 @@ Look for these indicators that confirm your data stays private:
 1. Check tool settings and options
 2. Verify input file format
 3. Try with a test file
-4. Review [troubleshooting guide](./docs/guides/troubleshooting.md)
+4. Review [troubleshooting guide](./guides/troubleshooting.md)
 5. Contact support
 
 ---
@@ -277,24 +281,24 @@ Look for these indicators that confirm your data stays private:
 **Pick your path:**
 
 #### 👨‍💼 **For Professionals**
-→ [PDF Tools Guide](./docs/categories/PDF_TOOLS.md)  
-→ [Office Tools Guide](./docs/categories/OFFICE_TOOLS.md)  
-→ [SEO Tools Guide](./docs/categories/SEO_TOOLS.md)
+→ [PDF Tools Guide](./categories/PDF_TOOLS.md)  
+→ [Office Tools Guide](./categories/OFFICE_TOOLS.md)  
+→ [SEO Tools Guide](./categories/SEO_TOOLS.md)
 
 #### 👨‍💻 **For Developers**
-→ [Developer Utilities Guide](./docs/categories/DEV_UTILITIES.md)  
-→ [API Integration Guide](./docs/guides/api-integration.md)  
-→ [Dev Workflow Examples](./examples/dev-workflow.md)
+→ [Developer Utilities Guide](./categories/DEV_UTILITIES.md)  
+→ [API Integration Guide](./guides/api-integration.md)  
+→ [Dev Workflow Examples](../examples/developer-workflow.md)
 
 #### 🎨 **For Designers**
-→ [Image Tools Guide](./docs/categories/IMAGE_TOOLS.md)  
-→ [Color Picker Guide](./docs/tools/image/color-picker-palette.md)  
-→ [SVG Converter Guide](./docs/tools/image/svg-to-png.md)
+→ [Image Tools Guide](./categories/IMAGE_TOOLS.md)  
+→ [Color Picker Guide](./tools/dev/advanced-color-picker-palette-generator.md)  
+→ [SVG Converter Guide](./tools/image/svg-to-png.md)
 
 #### 📱 **For Content Creators**
-→ [Social Media Tools Guide](./docs/categories/SOCIAL_MEDIA.md)  
-→ [Meme Maker Guide](./docs/tools/image/meme-generator.md)  
-→ [Image Optimizer Guide](./docs/tools/image/image-compressor.md)
+→ [Social Media Tools Guide](./categories/SOCIAL_MEDIA.md)  
+→ [Meme Maker Guide](./tools/image/meme-generator.md)  
+→ [Image Optimizer Guide](./tools/image/image-compressor.md)
 
 ### Learn More
 

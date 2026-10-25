@@ -35,12 +35,12 @@
 ### File Protection
 
 **Password Protection:**
-- [PDF Password Protector →](../tools/pdf/pdf-password-protector.md)
+- [PDF Password Protector →](../tools/pdf/protect-pdf.md)
 - AES-128 encryption
 - Restrict permission
 
 **Metadata Removal:**
-- [Image EXIF Remover →](../tools/image/image-metadata-viewer.md)
+- [Image EXIF Remover →](../tools/image/image-metadata.md)
 - Remove GPS data
 - Strip camera info
 
@@ -110,7 +110,7 @@
 - Use remover tools before sharing
 - Check before uploading
 
-[Learn more on EXIF →](../tools/image/image-metadata-viewer.md)
+[Learn more on EXIF →](../tools/image/image-metadata.md)
 
 ---
 

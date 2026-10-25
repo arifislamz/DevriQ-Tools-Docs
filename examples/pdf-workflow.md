@@ -371,19 +371,19 @@ Before sending your document:
 ## 📞 Support
 
 **Questions about workflows?**
-- [Best Practices Guide →](../guides/best-practices.md)
-- [Troubleshooting →](../guides/troubleshooting.md)
+- [Best Practices Guide →](../docs/guides/best-practices.md)
+- [Troubleshooting →](../docs/guides/troubleshooting.md)
 - [Contact Support →](https://devriq.in/contact-us)
-- [FAQ →](../FAQ.md)
+- [FAQ →](../docs/FAQ.md)
 
 ---
 
 ## 📚 Related Resources
 
-- **[PDF Tools Guide](../categories/PDF_TOOLS.md)** — All PDF tools
-- **[Office Tools](../categories/OFFICE_TOOLS.md)** — Business tools
-- **[Invoice Generator](../tools/dev/invoice-generator.md)** — Create invoices
-- **[Best Practices](../guides/best-practices.md)** — Pro tips
+- **[PDF Tools Guide](../docs/categories/PDF_TOOLS.md)** — All PDF tools
+- **[Office Tools](../docs/categories/OFFICE_TOOLS.md)** — Business tools
+- **[Invoice Generator](../docs/tools/business/invoice-generator.md)** — Create invoices
+- **[Best Practices](../docs/guides/best-practices.md)** — Pro tips
 
 ---
 
@@ -395,7 +395,7 @@ Before sending your document:
 
 1. [PDF Tools →](https://tools.devriq.in/category/pdf/)
 2. [Office Tools →](https://tools.devriq.in/category/office/)
-3. [Get Started →](../GETTING_STARTED.md)
+3. [Get Started →](../docs/GETTING_STARTED.md)
 
 ---
 

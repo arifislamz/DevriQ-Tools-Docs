@@ -1,135 +1,136 @@
-# Social Media Tools Guide
+# 📱 Social Media Tools - Complete Guide & Category Hub
 
-**Content creation tools for social platforms** — Generate graphics, optimize content, and manage social media workflows.
+**High-resolution media and thumbnail downloaders for Instagram, TikTok, YouTube, Twitter/X, Spotify, and Pinterest.**
 
----
+Welcome to the comprehensive documentation hub for the **Social Media Tools** category on DevriQ Tools. Access all utilities directly online with zero downloads, total privacy, and no fees.
 
-## 📋 Overview
-
-DevriQ's **Social Media Tools** help create engaging content:
-
-- Meme generation
-- Image optimization
-- Content scheduling helpers
-- Graphic tools
-- Platform-specific optimizers
-
-All tools support multiple platforms!
+> 🌐 **Official Web Category**: [**Social Media Tools on DevriQ Tools (https://tools.devriq.in/category/social/)**](https://tools.devriq.in/category/social/)
 
 ---
 
-## 📱 Available Social Tools
+## 📋 Directory of Available Social Media Tools (6 Tools)
 
-Visit the full category for all social media tools:
-
-[**Social Media Tools Category →**](https://tools.devriq.in/category/social/)
-
-**Featured Tools:**
-- [Meme Generator →](../tools/image/meme-generator.md) — Create viral memes
-- Image optimizer
-- Social preview tools
-- Hashtag helpers
-- Content formatters
+| Tool Name | Core Capability | Documentation |
+|:---|:---|:---|
+| [**Instagram Media Downloader**](https://tools.devriq.in/instagram-downloader/) | Download high-resolution Instagram photos, Reels, videos, carousel slides, and profile pictures for free. | [Documentation Guide](../tools/social/instagram-downloader.md) |
+| [**Pinterest Image Downloader**](https://tools.devriq.in/pinterest-image-downloader/) | Download full-resolution Pinterest images, pins, infographics, and GIF animations in original high quality. | [Documentation Guide](../tools/social/pinterest-image-downloader.md) |
+| [**Spotify Cover Downloader**](https://tools.devriq.in/spotify-cover-downloader/) | Download high-resolution 640x640 album artwork, playlist covers, and track art from any Spotify link. | [Documentation Guide](../tools/social/spotify-cover-downloader.md) |
+| [**TikTok Cover & Thumbnail Downloader**](https://tools.devriq.in/tiktok-cover-downloader/) | Download high-resolution TikTok video covers, thumbnail stills, and profile pictures without watermarks. | [Documentation Guide](../tools/social/tiktok-cover-downloader.md) |
+| [**X (Twitter) Image & Media Downloader**](https://tools.devriq.in/x-image-downloader/) | Download full-resolution original photos, graphics, and multi-image galleries from Twitter/X tweets. | [Documentation Guide](../tools/social/x-image-downloader.md) |
+| [**YouTube Thumbnail Downloader**](https://tools.devriq.in/youtube-thumbnail-downloader/) | Download high-resolution YouTube video thumbnails in 4K, 1080p Full HD, Standard, and Mobile resolutions. | [Documentation Guide](../tools/social/youtube-thumbnail-downloader.md) |
 
 ---
 
-## 🎨 Social Media Assets
+## 🌟 Detailed Feature Breakdown
 
-### Platform-Specific Dimensions
+### [Instagram Media Downloader](https://tools.devriq.in/instagram-downloader/)
 
-**Using Image Resizer:**
+**Download high-resolution Instagram photos, Reels, videos, carousel slides, and profile pictures for free.**
 
-| Platform | Recommended Dimension | Aspect Ratio |
-|----------|----------------------|--------------|
-| Instagram Feed | 1080x1080px | 1:1 |
-| Instagram Story | 1080x1920px | 9:16 |
-| Facebook Post | 1200x630px | 1.91:1 |
-| Twitter/X | 1024x512px | 2:1 |
-| LinkedIn | 1200x627px | 1.91:1 |
-| YouTube Thumbnail | 1280x720px | 16:9 |
-| TikTok | 1080x1920px | 9:16 |
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/instagram-downloader/)
+- 📖 [**Complete User Documentation Guide →**](../tools/social/instagram-downloader.md)
 
-[Image Resizer with Presets →](../tools/image/image-resizer.md)
+**Core Highlights:**
+  - Full Media Support — Download Instagram Reels, Video posts, Single photos, Carousel galleries, and Stories.
+  - Original High-Definition Quality — Retrieves the highest resolution MP4 video and uncompressed JPEG images.
+  - Carousel Batch Download — Download all individual photos and slides from multi-image carousel posts in one click.
+
 
 ---
 
-## 💡 Content Creation Workflow
+### [Pinterest Image Downloader](https://tools.devriq.in/pinterest-image-downloader/)
 
-### Meme Creation
-1. **Choose Template** → [Meme Generator →](../tools/image/meme-generator.md)
-2. **Add Text** → Top and bottom text
-3. **Customize** → Fonts and effects
-4. **Export** → Download PNG/JPG
-5. **Post** → Share to platforms
+**Download full-resolution Pinterest images, pins, infographics, and GIF animations in original high quality.**
 
-### Image Optimization
-1. **Resize** → Platform dimensions → [Image Resizer →](../tools/image/image-resizer.md)
-2. **Compress** → Optimize file size → [Image Compressor →](../tools/image/image-compressor.md)
-3. **Enhance** → Add watermark → [Watermark Adder →](../tools/image/image-watermark.md)
-4. **Export** → Download optimized
-5. **Share** → Post to social
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/pinterest-image-downloader/)
+- 📖 [**Complete User Documentation Guide →**](../tools/social/pinterest-image-downloader.md)
 
-### Multi-Platform Strategy
-1. Create master graphic
-2. Resize for each platform
-3. Optimize for each format
-4. Schedule posting
-5. Monitor engagement
+**Core Highlights:**
+  - Original Master Quality — Bypasses thumbnail compressions to download the original full-size image uploaded to Pinterest.
+  - Infographic & Long Pin Support — Download tall vertical infographics and recipe guides without clipping.
+  - GIF & Video Pin Support — Download animated GIF pins and video pins in original MP4 format.
+
 
 ---
 
-## 📈 Social Media Best Practices
+### [Spotify Cover Downloader](https://tools.devriq.in/spotify-cover-downloader/)
 
-✅ **DO:**
-- Use platform-specific dimensions
-- Optimize images before uploading
-- Post consistently
-- Engage with audience
-- Monitor analytics
+**Download high-resolution 640x640 album artwork, playlist covers, and track art from any Spotify link.**
 
-❌ **DON'T:**
-- Stretch images (distorts content)
-- Upload oversized files
-- Post low-quality graphics
-- Ignore comments
-- Use misleading thumbnails
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/spotify-cover-downloader/)
+- 📖 [**Complete User Documentation Guide →**](../tools/social/spotify-cover-downloader.md)
+
+**Core Highlights:**
+  - Full Spotify Catalog Coverage — Extract covers for Tracks, Albums, Playlists, Artists, and Podcasts.
+  - Uncompressed 640x640 Master Art — Retrieves the maximum resolution cover art stored on Spotify's CDN.
+  - Metadata Display — Shows album name, artist, release year, and track count alongside the cover art.
+
 
 ---
 
-## 🎯 Content Ideas
+### [TikTok Cover & Thumbnail Downloader](https://tools.devriq.in/tiktok-cover-downloader/)
 
-**Using DevriQ Tools:**
-- Create memes for engagement
-- Generate multiple format images
-- Optimize for each platform
-- Brand consistency with watermarks
-- Quick graphic creation
+**Download high-resolution TikTok video covers, thumbnail stills, and profile pictures without watermarks.**
 
----
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/tiktok-cover-downloader/)
+- 📖 [**Complete User Documentation Guide →**](../tools/social/tiktok-cover-downloader.md)
 
-## 📊 Engagement Tips
+**Core Highlights:**
+  - High-Definition Video Thumbnails — Extracts the official full-resolution cover image chosen by the creator.
+  - Profile Picture Extraction — Download full-size TikTok avatar profile photos in high resolution.
+  - Zero Watermarks — Downloads clean thumbnail artwork without overlay buttons or watermark icons.
 
-- **Consistency** → Regular posting
-- **Quality** → High-quality visuals
-- **Relevance** → On-brand content
-- **Engagement** → Respond to comments
-- **Analytics** → Track what works
 
 ---
 
-## 📚 Related Resources
+### [X (Twitter) Image & Media Downloader](https://tools.devriq.in/x-image-downloader/)
 
-- **[Meme Generator](../tools/image/meme-generator.md)** — Create memes
-- **[Image Resizer](../tools/image/image-resizer.md)** — Platform presets
-- **[Image Compressor](../tools/image/image-compressor.md)** — Optimize files
-- **[Image Tools](./IMAGE_TOOLS.md)** — Complete image guide
+**Download full-resolution original photos, graphics, and multi-image galleries from Twitter/X tweets.**
+
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/x-image-downloader/)
+- 📖 [**Complete User Documentation Guide →**](../tools/social/x-image-downloader.md)
+
+**Core Highlights:**
+  - Original `:orig` Master Quality — Bypasses Twitter's standard compressed web preview to download the original full-size upload.
+  - Multi-Image Tweet Extraction — Download all 4 images from multi-photo tweets in one click.
+  - High-DPI Vector & PNG Support — Preserves transparent PNGs and high-resolution infographics uploaded to X.
+
 
 ---
 
-**Return to:** [All Categories](../../README.md#-complete-tools-directory) | [Platform Home](https://tools.devriq.in/)
+### [YouTube Thumbnail Downloader](https://tools.devriq.in/youtube-thumbnail-downloader/)
 
-**Explore:** [All Social Media Tools →](https://tools.devriq.in/category/social/)
+**Download high-resolution YouTube video thumbnails in 4K, 1080p Full HD, Standard, and Mobile resolutions.**
+
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/youtube-thumbnail-downloader/)
+- 📖 [**Complete User Documentation Guide →**](../tools/social/youtube-thumbnail-downloader.md)
+
+**Core Highlights:**
+  - All Standard Resolutions — Download Max Resolution (1280x720 / 1080p), High (640x480), Medium (480x360), and Standard.
+  - Works with All YouTube Links — Supports standard watch URLs, short URLs (`youtu.be`), and YouTube Shorts.
+  - Zero Quality Loss — Retrieves the uncompressed original thumbnail uploaded directly by the channel creator.
+
 
 ---
 
-© 2026 DevriQ Tools. All rights reserved.
+## 🔒 Security & Privacy Architecture
+
+All social media tools operate under DevriQ's strict privacy-first architecture:
+- **Client-Side Execution**: Data processing runs inside your browser using JavaScript and WebAssembly.
+- **No Data Retention**: Your inputs, files, and outputs are never stored on external databases.
+- **GDPR Compliant**: Zero telemetry tracking, no analytics profiling, and zero commercial data reselling.
+
+Learn more in our [Privacy First Architecture Guide](../PRIVACY_FIRST.md).
+
+---
+
+## 🔗 Platform Navigation
+
+- 🏠 [**Platform Homepage**](https://tools.devriq.in/)
+- 🗂️ [**All Tools Directory**](https://tools.devriq.in/all-tools/) | [**Markdown Directory**](../TOOLS_DIRECTORY.md)
+- ⚡ [**Strategic Workflows & Multi-Tool Solutions**](../WORKFLOWS_AND_SOLUTIONS.md)
+- 🚀 [**Getting Started Guide**](../GETTING_STARTED.md)
+
+---
+
+*DevriQ Tools — High-performance, privacy-first web utilities for professionals worldwide.*

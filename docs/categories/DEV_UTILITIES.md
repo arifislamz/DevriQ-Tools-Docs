@@ -1,558 +1,328 @@
-# Developer Utilities Guide
+# 💻 Developer Utilities - Complete Guide & Category Hub
 
-**18 essential tools for developers** — Code formatters, encoders, validators, and generators. Everything a developer needs for productivity and debugging.
+**Essential formatters, encoders, minifiers, testers, and generators built for full-stack developers and engineers.**
 
----
+Welcome to the comprehensive documentation hub for the **Developer Utilities** category on DevriQ Tools. Access all utilities directly online with zero downloads, total privacy, and no fees.
 
-## 📋 Table of Contents
-
-- [Category Overview](#-overview)
-- [Developer Tools List](#-developer-tools-list)
-- [Code Formatting](#-code-formatting)
-- [Encoding & Validation](#-encoding--validation)
-- [Generators & Utilities](#-generators--utilities)
-- [Best Practices](#-best-practices)
-- [Developer Workflows](#-developer-workflows)
+> 🌐 **Official Web Category**: [**Developer Utilities on DevriQ Tools (https://tools.devriq.in/category/dev/)**](https://tools.devriq.in/category/dev/)
 
 ---
 
-## 💻 Overview
+## 📋 Directory of Available Developer Utilities (18 Tools)
 
-DevriQ's **Developer Utilities** provides **18 professional tools** for modern development:
-
-- ✅ **Free** — No subscriptions
-- ✅ **Instant** — No installation needed
-- ✅ **Secure** — Client-side processing
-- ✅ **Production-Ready** — Used by enterprises
-- ✅ **Standards-Compliant** — Industry best practices
-
-### Why DevriQ for Development?
-
-**Better than command-line tools when you need:**
-
-| Scenario | DevriQ | CLI |
-|----------|--------|-----|
-| **Quick format** | Instant web UI | Terminal commands |
-| **Visual preview** | Live preview | Manual inspection |
-| **Mobile access** | Browser works | Not typically mobile |
-| **No setup** | Ready immediately | Install & configure |
-| **Testing regex** | Visual tester | Manual testing |
-
----
-
-## 🔧 Developer Tools List
-
-### Code Formatting & Beautification
-
-#### 1. **HTML Formatter & Minifier**
-**Beautify messy HTML or minify for production**
-
-[**Live Tool** →](https://tools.devriq.in/html-formatter/) | [**Full Guide** →](../tools/dev/html-formatter.md)
-
-**Features:**
-- Pretty-print HTML
-- Minify for production
-- Indentation control
-- Error highlighting
-- Live preview
-
-**Use Cases:**
-- Clean up HTML code
-- Prepare for deployment
-- Fix indentation issues
-- Validate structure
+| Tool Name | Core Capability | Documentation |
+|:---|:---|:---|
+| [**Barcode Generator**](https://tools.devriq.in/barcode-generator/) | Generate free scannable barcodes in Code 128, UPC, EAN-13, Code 39, and ITF formats with SVG/PNG download. | [Documentation Guide](../tools/dev/barcode-generator.md) |
+| [**Base64 Encoder & Decoder**](https://tools.devriq.in/base64-encoder/) | Encode and decode text, strings, and binary files to Base64 format securely in your browser. | [Documentation Guide](../tools/dev/base64-encoder.md) |
+| [**Color Code Converter**](https://tools.devriq.in/color-code-converter/) | Convert colors seamlessly between HEX, RGB, HSL, HSV, and CMYK formats with real-time preview. | [Documentation Guide](../tools/dev/color-code-converter.md) |
+| [**Advanced Color Picker & Palette Generator**](https://tools.devriq.in/advanced-color-picker-palette-generator/) | Generate harmonious color palettes, extract dominant colors from images, and test contrast ratios. | [Documentation Guide](../tools/dev/advanced-color-picker-palette-generator.md) |
+| [**Cron Expression Generator**](https://tools.devriq.in/cron-generator/) | Visually build, schedule, validate, and understand complex Cron expressions with human-readable descriptions. | [Documentation Guide](../tools/dev/cron-generator.md) |
+| [**CSS Minifier & Beautifier**](https://tools.devriq.in/css-minifier/) | Minify CSS stylesheets to reduce file size and accelerate web page loading, or beautify minified styles. | [Documentation Guide](../tools/dev/css-minifier.md) |
+| [**Favicon Generator**](https://tools.devriq.in/favicon-generator/) | Generate complete favicon packages for desktop browsers, iOS, Android, and Windows from any logo or image. | [Documentation Guide](../tools/dev/favicon-generator.md) |
+| [**Favicon & Logo Extractor**](https://tools.devriq.in/favicon-logo-extractor/) | Extract and download high-resolution favicons, Apple touch icons, and brand logos from any website URL. | [Documentation Guide](../tools/dev/favicon-logo-extractor.md) |
+| [**HTML Formatter & Beautifier**](https://tools.devriq.in/html-formatter/) | Format, indent, beautify, or minify messy HTML markup with custom indentation and tag rules. | [Documentation Guide](../tools/dev/html-formatter.md) |
+| [**HTTP Status Code Lookup**](https://tools.devriq.in/http-status-lookup/) | Comprehensive reference guide and lookup tool for all HTTP status codes, headers, and troubleshooting tips. | [Documentation Guide](../tools/dev/http-status-lookup.md) |
+| [**JavaScript Minifier**](https://tools.devriq.in/js-minifier/) | Minify JavaScript code to reduce bundle size, eliminate dead code, and accelerate script execution. | [Documentation Guide](../tools/dev/js-minifier.md) |
+| [**JWT Decoder**](https://tools.devriq.in/jwt-decoder/) | Decode, inspect, and debug JSON Web Tokens (JWT) header, payload, and expiration claims securely offline. | [Documentation Guide](../tools/dev/jwt-decoder.md) |
+| [**Markdown to HTML Converter**](https://tools.devriq.in/markdown-to-html/) | Convert Markdown text to clean semantic HTML markup with live side-by-side rendering preview. | [Documentation Guide](../tools/dev/markdown-to-html.md) |
+| [**Online JSON Formatter & Validator**](https://tools.devriq.in/online-json-formatter-validator/) | Format, validate, beautify, minify, and inspect JSON payloads with detailed syntax error highlighting. | [Documentation Guide](../tools/dev/online-json-formatter-validator.md) |
+| [**Free QR Code Generator**](https://tools.devriq.in/free-qr-code-generator/) | Generate customizable QR codes for websites, Wi-Fi networks, vCards, text, and payments with logo embedding. | [Documentation Guide](../tools/dev/free-qr-code-generator.md) |
+| [**Regex Tester & Debugger**](https://tools.devriq.in/regex-tester/) | Test, debug, and validate Regular Expressions live with real-time match highlighting and capture group breakdowns. | [Documentation Guide](../tools/dev/regex-tester.md) |
+| [**Robots.txt & LLM Bots Generator**](https://tools.devriq.in/robots-llms-generator/) | Generate optimized robots.txt files with advanced rules to control search crawlers and AI/LLM scraper bots. | [Documentation Guide](../tools/dev/robots-llms-generator.md) |
+| [**URL Encoder & Decoder**](https://tools.devriq.in/url-encoder-decoder/) | Encode and decode URLs, query strings, and URI components to percent-encoding format instantly. | [Documentation Guide](../tools/dev/url-encoder-decoder.md) |
 
 ---
 
-#### 2. **CSS Minifier & Beautifier**
-**Minify CSS for production or beautify for editing**
+## 🌟 Detailed Feature Breakdown
 
-[**Live Tool** →](https://tools.devriq.in/css-minifier/) | [**Full Guide** →](../tools/dev/css-minifier.md)
+### [Barcode Generator](https://tools.devriq.in/barcode-generator/)
 
-**Features:**
-- CSS minification
-- Beautification
-- Comment stripping
-- Byte savings display
-- Validation
+**Generate free scannable barcodes in Code 128, UPC, EAN-13, Code 39, and ITF formats with SVG/PNG download.**
 
-**Use Cases:**
-- Production optimization
-- File size reduction
-- Code cleanup
-- Performance improvement
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/barcode-generator/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/barcode-generator.md)
+
+**Core Highlights:**
+  - All Major Barcode Standards — Supports Code 128, EAN-13, EAN-8, UPC-A, UPC-E, Code 39, ITF-14, and Codabar.
+  - Vector SVG & High-Res PNG Output — Crisp, scalable downloads ready for packaging, labels, and commercial printing.
+  - Custom Dimensions & Text Labels — Toggle human-readable text display, font size, margins, and bar heights.
+
 
 ---
 
-#### 3. **JavaScript Minifier**
-**Minify JavaScript for deployment**
+### [Base64 Encoder & Decoder](https://tools.devriq.in/base64-encoder/)
 
-[**Live Tool** →](https://tools.devriq.in/js-minifier/) | [**Full Guide** →](../tools/dev/js-minifier.md)
+**Encode and decode text, strings, and binary files to Base64 format securely in your browser.**
 
-**Features:**
-- Aggressive minification
-- Regex preservation
-- String literal safety
-- Performance metrics
-- Secure client-side
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/base64-encoder/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/base64-encoder.md)
 
-**Use Cases:**
-- Production deployment
-- Reduce network transfer
-- Improve page load speed
-- Asset optimization
+**Core Highlights:**
+  - Bidirectional Processing — Instant one-click toggle between Encode and Decode modes.
+  - File to Base64 Data URI — Convert images, PDFs, fonts, and icons into embeddable HTML/CSS data URIs.
+  - UTF-8 & Unicode Safe — Accurately handles international characters, emojis, and special symbols.
+
 
 ---
 
-#### 4. **JSON Formatter & Validator**
-**Validate, format, and minify JSON**
+### [Color Code Converter](https://tools.devriq.in/color-code-converter/)
 
-[**Live Tool** →](https://tools.devriq.in/online-json-formatter-validator/) | [**Full Guide** →](../tools/dev/json-formatter.md)
+**Convert colors seamlessly between HEX, RGB, HSL, HSV, and CMYK formats with real-time preview.**
 
-**Features:**
-- JSON validation
-- Pretty formatting
-- Minification
-- Error correction
-- Live preview
-- Copy button
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/color-code-converter/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/color-code-converter.md)
 
-**Use Cases:**
-- API debugging
-- Configuration files
-- Data validation
-- Development testing
+**Core Highlights:**
+  - Universal Color Space Support — Instant real-time conversion across HEX, RGB, RGBA, HSL, HSLA, HSV, and CMYK.
+  - Alpha Channel & Opacity Handling — Full support for transparency values and CSS alpha channels.
+  - Interactive Color Swatch — Live visual color square updates dynamically with every keystroke.
+
 
 ---
 
-#### 5. **Markdown to HTML**
-**Convert Markdown to semantic HTML**
+### [Advanced Color Picker & Palette Generator](https://tools.devriq.in/advanced-color-picker-palette-generator/)
 
-[**Live Tool** →](https://tools.devriq.in/markdown-to-html/) | [**Full Guide** →](../tools/dev/markdown-to-html.md)
+**Generate harmonious color palettes, extract dominant colors from images, and test contrast ratios.**
 
-**Features:**
-- Live preview
-- GitHub Flavored Markdown
-- Table support
-- Code fence highlighting
-- Semantic HTML output
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/advanced-color-picker-palette-generator/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/advanced-color-picker-palette-generator.md)
 
-**Use Cases:**
-- Convert documentation
-- Build static sites
-- Prepare content for web
-- Batch conversion
+**Core Highlights:**
+  - Harmonic Color Schemes — Generate Monochromatic, Analogous, Complementary, Triadic, and Tetradic schemes.
+  - Image Color Extraction — Upload any photo or logo to extract the dominant 5-color palette automatically.
+  - WCAG Contrast Checker — Real-time AA and AAA accessibility contrast rating for text on background.
+
 
 ---
 
-### Encoding & Decoding
+### [Cron Expression Generator](https://tools.devriq.in/cron-generator/)
 
-#### 6. **Base64 Encoder/Decoder**
-**Encode and decode Base64 data safely**
+**Visually build, schedule, validate, and understand complex Cron expressions with human-readable descriptions.**
 
-[**Live Tool** →](https://tools.devriq.in/base64-encoder/) | [**Full Guide** →](../tools/dev/base64-encoder.md)
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/cron-generator/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/cron-generator.md)
 
-**Features:**
-- Encode text to Base64
-- Decode Base64 to text
-- File support
-- Data URI handling
-- Unicode support
+**Core Highlights:**
+  - Visual Schedule Builder — Build schedules by Minutes, Hours, Days, Weeks, Months, and Years without syntax errors.
+  - Plain-English Translation — Translates cryptic expressions like `0 0 12 ? * WED` into clear English descriptions.
+  - Next Execution Timestamps — Previews the next 5 upcoming scheduled execution times.
 
-**Use Cases:**
-- API integration
-- OAuth tokens
-- Image data URIs
-- Secure data transmission
 
 ---
 
-#### 7. **URL Encoder/Decoder**
-**Safely encode or decode URLs and query strings**
+### [CSS Minifier & Beautifier](https://tools.devriq.in/css-minifier/)
 
-[**Live Tool** →](https://tools.devriq.in/url-encoder-decoder/) | [**Full Guide** →](../tools/dev/url-encoder.md)
+**Minify CSS stylesheets to reduce file size and accelerate web page loading, or beautify minified styles.**
 
-**Features:**
-- URL encoding
-- Form encoding
-- Safe query strings
-- Special character handling
-- Live preview
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/css-minifier/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/css-minifier.md)
 
-**Use Cases:**
-- Build API requests
-- Fix encoding issues
-- Debug URLs
-- Safe data transmission
+**Core Highlights:**
+  - High-Efficiency Compression — Strips comments, removes unnecessary whitespace, and collapses redundant rules.
+  - Color & Shorthand Optimization — Converts color names to short hex and optimizes CSS margin/padding properties.
+  - Beautify / Unminify Mode — Formats compressed or obfuscated CSS into clean, indented, readable stylesheets.
+
 
 ---
 
-#### 8. **JWT Decoder**
-**Decode and inspect JSON Web Tokens**
+### [Favicon Generator](https://tools.devriq.in/favicon-generator/)
 
-[**Live Tool** →](https://tools.devriq.in/jwt-decoder/) | [**Full Guide** →](../tools/dev/jwt-decoder.md)
+**Generate complete favicon packages for desktop browsers, iOS, Android, and Windows from any logo or image.**
 
-**Features:**
-- Decode JWT tokens
-- View header/payload
-- Claims extraction
-- Expiration checking
-- Secure local decoding
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/favicon-generator/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/favicon-generator.md)
 
-**Use Cases:**
-- Token debugging
-- Authorization analysis
-- Claim verification
-- Development testing
+**Core Highlights:**
+  - Complete Platform Coverage — Generates 16x16, 32x32, 48x48, 180x180 (Apple Touch), and 192x192 / 512x512 (PWA) icons.
+  - Multi-Resolution .ICO Export — Combines standard desktop resolutions into a single valid `favicon.ico`.
+  - Web App Manifest Included — Generates pre-configured `site.webmanifest` and `browserconfig.xml` files.
 
-**Security Note:** Decode test tokens only, never production tokens!
 
 ---
 
-### Testing & Validation
+### [Favicon & Logo Extractor](https://tools.devriq.in/favicon-logo-extractor/)
 
-#### 9. **Regex Tester**
-**Test regular expressions with live visual feedback**
+**Extract and download high-resolution favicons, Apple touch icons, and brand logos from any website URL.**
 
-[**Live Tool** →](https://tools.devriq.in/regex-tester/) | [**Full Guide** →](../tools/dev/regex-tester.md)
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/favicon-logo-extractor/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/favicon-logo-extractor.md)
 
-**Features:**
-- Live regex testing
-- Visual highlighting
-- Capture groups display
-- Match details
-- Flags support (g, i, m, s)
+**Core Highlights:**
+  - Deep Meta Scraping — Scans `<link rel='icon'>`, Apple Touch icons, OpenGraph images, and manifest files.
+  - High-Resolution Retrieval — Extracts the highest resolution asset available up to 512x512 pixels.
+  - Multi-Format Extraction — Downloads original `.ico`, `.svg`, `.png`, and `.webp` graphics.
 
-**Use Cases:**
-- Pattern development
-- Validation testing
-- Data extraction
-- Text parsing
 
 ---
 
-#### 10. **HTTP Status Code Lookup**
-**Reference all HTTP status codes (1xx-5xx)**
+### [HTML Formatter & Beautifier](https://tools.devriq.in/html-formatter/)
 
-[**Live Tool** →](https://tools.devriq.in/http-status-lookup/) | [**Full Guide** →](../tools/dev/http-status-lookup.md)
+**Format, indent, beautify, or minify messy HTML markup with custom indentation and tag rules.**
 
-**Features:**
-- Complete status reference
-- Categorized (1xx, 2xx, 3xx, 4xx, 5xx)
-- Descriptions
-- Possible causes
-- Solutions
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/html-formatter/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/html-formatter.md)
 
-**Common Status Codes:**
-- 200: OK (success)
-- 404: Not Found
-- 500: Internal Server Error
-- 401: Unauthorized
+**Core Highlights:**
+  - Clean Tree Indentation — Beautifully indents nested DOM nodes with 2-space, 4-space, or tab options.
+  - Syntax Error Highlighting — Flags unclosed tags, missing attribute quotes, and nesting mistakes.
+  - Minify Mode Included — Strips whitespace and comments for lightweight HTML production deployment.
+
 
 ---
 
-### Code Generation & Utilities
+### [HTTP Status Code Lookup](https://tools.devriq.in/http-status-lookup/)
 
-#### 11. **QR Code Generator**
-**Generate customizable QR codes**
+**Comprehensive reference guide and lookup tool for all HTTP status codes, headers, and troubleshooting tips.**
 
-[**Live Tool** →](https://tools.devriq.in/free-qr-code-generator/) | [**Full Guide** →](../tools/dev/qr-code-generator.md)
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/http-status-lookup/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/http-status-lookup.md)
 
-**Features:**
-- Custom QR codes
-- Logo support
-- Color customization
-- Size options
-- SVG/PNG export
+**Core Highlights:**
+  - Complete IANA Status Catalog — Full coverage of 1xx (Informational), 2xx (Success), 3xx (Redirection), 4xx (Client Errors), and 5xx (Server Errors).
+  - Instant Search & Filter — Search by number (e.g. 404, 502, 301) or by keyword (e.g. 'Gateway', 'Forbidden', 'Redirect').
+  - Actionable Fixes & Solutions — Clear diagnostic advice for developers and sysadmins on how to fix each error.
 
-**Use Cases:**
-- URL sharing
-- WiFi distribution
-- Event codes
-- Contact information
-- Payment codes
 
 ---
 
-#### 12. **Favicon Generator**
-**Generate complete favicon packages**
+### [JavaScript Minifier](https://tools.devriq.in/js-minifier/)
 
-[**Live Tool** →](https://tools.devriq.in/favicon-generator/) | [**Full Guide** →](../tools/dev/favicon-generator.md)
+**Minify JavaScript code to reduce bundle size, eliminate dead code, and accelerate script execution.**
 
-**Features:**
-- Generate .ico files
-- iOS touch icons
-- Android chrome icons
-- HTML manifest generation
-- Complete PWA package
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/js-minifier/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/js-minifier.md)
 
-**Output Includes:**
-- favicon.ico (classic)
-- apple-touch-icon.png
-- manifest.json (PWA)
-- HTML link tags
+**Core Highlights:**
+  - Advanced Variable Mangling — Shortens long local identifier names while safely preserving public API scopes.
+  - Dead Code Elimination — Identifies and strips unreachable code blocks and unused variables.
+  - ES6+ & Modern Syntax Support — Handles arrow functions, async/await, optional chaining, and classes flawlessly.
+
 
 ---
 
-#### 13. **Cron Expression Generator**
-**Visually build cron job expressions**
+### [JWT Decoder](https://tools.devriq.in/jwt-decoder/)
 
-[**Live Tool** →](https://tools.devriq.in/cron-generator/) | [**Full Guide** →](../tools/dev/cron-generator.md)
+**Decode, inspect, and debug JSON Web Tokens (JWT) header, payload, and expiration claims securely offline.**
 
-**Features:**
-- Visual cron builder
-- Field mapping interface
-- Plain English translation
-- Validation
-- Copy-ready expressions
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/jwt-decoder/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/jwt-decoder.md)
 
-**Use Cases:**
-- Schedule backend jobs
-- Automate tasks
-- Cron string generation
-- Expression validation
+**Core Highlights:**
+  - 3-Part Visual Color Breakdown — Separates Header (Red), Payload (Purple), and Signature (Blue) with instant decoding.
+  - Human-Readable Expiration Timers — Converts Unix timestamps (`exp`, `nbf`, `iat`) into readable dates with live validity countdown.
+  - Claim Inspection — Easily inspect user roles, permissions, scopes, and subject IDs.
+
 
 ---
 
-#### 14. **Robots.txt Generator (Block AI Bots)**
-**Generate robots.txt to block AI crawlers**
+### [Markdown to HTML Converter](https://tools.devriq.in/markdown-to-html/)
 
-[**Live Tool** →](https://tools.devriq.in/robots-llms-generator/) | [**Full Guide** →](../tools/dev/robots-llms-generator.md)
+**Convert Markdown text to clean semantic HTML markup with live side-by-side rendering preview.**
 
-**Features:**
-- Block LLM bots
-- OpenAI, Google, others
-- Custom bot blocking
-- Standard format
-- Best practices
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/markdown-to-html/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/markdown-to-html.md)
 
-**Blocks:**
-- GPTBot (OpenAI)
-- Googlebot-Extended (Google)
-- Bingbot (Bing)
-- Claudebot (Anthropic)
-- Others
+**Core Highlights:**
+  - GitHub Flavored Markdown (GFM) — Supports tables, task lists, strikethrough, autolinks, and fenced code blocks.
+  - Live Synchronized Preview — Real-time side-by-side editing with synchronized scroll preview.
+  - Syntax Highlighting — Highlights code snippets across Python, JavaScript, CSS, HTML, and bash.
+
 
 ---
 
-#### 15. **Invoice Generator**
-**Create professional invoices without watermarks**
+### [Online JSON Formatter & Validator](https://tools.devriq.in/online-json-formatter-validator/)
 
-[**Live Tool** →](https://tools.devriq.in/invoice-generator/) | [**Full Guide** →](../tools/dev/invoice-generator.md)
+**Format, validate, beautify, minify, and inspect JSON payloads with detailed syntax error highlighting.**
 
-**Features:**
-- Professional templates
-- Customizable fields
-- PDF export
-- No watermarks
-- Secure generation
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/online-json-formatter-validator/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/online-json-formatter-validator.md)
 
-**Includes:**
-- Invoice number
-- Client information
-- Line items
-- Tax calculation
-- Payment terms
+**Core Highlights:**
+  - Comprehensive Validation & Linting — Pinpoints exact line and column numbers of syntax errors.
+  - Collapsible Tree View — Interactive node collapsing and expanding for navigating massive JSON datasets.
+  - Minify / Beautify Modes — One-click toggle between 2-space indented readability and compact single-line JSON.
+
 
 ---
 
-### Color & Design Tools
+### [Free QR Code Generator](https://tools.devriq.in/free-qr-code-generator/)
 
-#### 16. **Color Code Converter**
-**Convert colors between HEX, RGB, HSL, HSB, CMYK**
+**Generate customizable QR codes for websites, Wi-Fi networks, vCards, text, and payments with logo embedding.**
 
-[**Live Tool** →](https://tools.devriq.in/color-code-converter/) | [**Full Guide** →](../tools/dev/color-code-converter.md)
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/free-qr-code-generator/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/free-qr-code-generator.md)
 
-**Features:**
-- Format conversions
-- Live color preview
-- WCAG contrast checking
-- Color scheme generation
-- Accessibility compliance
+**Core Highlights:**
+  - Multiple Data Formats — Create QR codes for URLs, Plain Text, Wi-Fi Login, vCard Contacts, Email, and SMS.
+  - Custom Styling & Colors — Customize foreground and background colors to match your brand palette.
+  - High Error Correction (H-Level) — Up to 30% error correction allows adding custom center logos without scan degradation.
 
-**Formats:**
-- HEX: #FF5733
-- RGB: rgb(255, 87, 51)
-- HSL: hsl(11, 100%, 60%)
-- HSB: hsb(11, 80%, 100%)
-- CMYK: cmyk(0%, 66%, 80%, 0%)
 
 ---
 
-### Advanced Utilities
+### [Regex Tester & Debugger](https://tools.devriq.in/regex-tester/)
 
-#### 17. **SVG to PNG Converter**
-**Convert vector graphics to raster images**
+**Test, debug, and validate Regular Expressions live with real-time match highlighting and capture group breakdowns.**
 
-[**Live Tool** →](https://tools.devriq.in/svg-to-png/) | [**Full Guide** →](../tools/dev/svg-to-png.md)
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/regex-tester/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/regex-tester.md)
 
-**Features:**
-- SVG to PNG/JPG/WebP
-- Scalable resolution
-- Transparent backgrounds
-- Quality control
-- Batch conversion
+**Core Highlights:**
+  - Real-Time Match Highlighting — Highlights matching strings, word boundaries, and capture groups as you type.
+  - Standard Regex Flags — One-click toggle for Global (`g`), Case-Insensitive (`i`), Multiline (`m`), and DotAll (`s`).
+  - Capture Group Extraction — Displays indexed and named capture groups in a structured inspector table.
 
-**Use Cases:**
-- Prepare graphics for production
-- Export design assets
-- Social media compatibility
-- Legacy system support
 
 ---
 
-#### 18. **Copy to Clipboard Utilities**
-**Available across all tools**
+### [Robots.txt & LLM Bots Generator](https://tools.devriq.in/robots-llms-generator/)
 
-Most DevriQ tools include copy buttons for:
-- Direct output copying
-- Formatted code copying
-- Easy parameter sharing
-- Clipboard preservation
+**Generate optimized robots.txt files with advanced rules to control search crawlers and AI/LLM scraper bots.**
 
----
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/robots-llms-generator/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/robots-llms-generator.md)
 
-## 🎯 Common Development Workflows
+**Core Highlights:**
+  - AI & LLM Scraper Presets — One-click toggles to allow or block GPTBot, CCBot, Google-Extended, Anthropic, and Perplexity.
+  - Major Search Engine Rules — Pre-configured directives for Googlebot, Bingbot, Yandex, and Baidu.
+  - Sitemap Directive Integration — Automatically attaches your XML sitemap URL to the header.
 
-### API Development & Testing
-
-**Workflow:**
-1. **Encode parameters** → URL Encoder [Link →](https://tools.devriq.in/url-encoder-decoder/)
-2. **Validate JSON** → JSON Formatter [Link →](https://tools.devriq.in/online-json-formatter-validator/)
-3. **Decode tokens** → JWT Decoder [Link →](https://tools.devriq.in/jwt-decoder/)
-4. **Check status codes** → HTTP Status Lookup [Link →](https://tools.devriq.in/http-status-lookup/)
-
-### Frontend Optimization
-
-**Workflow:**
-1. **Minify CSS** → CSS Minifier [Link →](https://tools.devriq.in/css-minifier/)
-2. **Minify JavaScript** → JS Minifier [Link →](https://tools.devriq.in/js-minifier/)
-3. **Minify HTML** → HTML Formatter [Link →](https://tools.devriq.in/html-formatter/)
-4. **Generate favicon** → Favicon Generator [Link →](https://tools.devriq.in/favicon-generator/)
-
-### Backend Development
-
-**Workflow:**
-1. **Build cron jobs** → Cron Generator [Link →](https://tools.devriq.in/cron-generator/)
-2. **Block crawlers** → Robots.txt Generator [Link →](https://tools.devriq.in/robots-llms-generator/)
-3. **Encode data** → Base64 Encoder [Link →](https://tools.devriq.in/base64-encoder/)
-4. **Format configs** → JSON Formatter [Link →](https://tools.devriq.in/online-json-formatter-validator/)
-
-### Regular Expression Development
-
-**Workflow:**
-1. **Test pattern** → Regex Tester [Link →](https://tools.devriq.in/regex-tester/)
-2. **Validate matches** → Visual feedback
-3. **Extract groups** → Capture groups shown
-4. **Copy final pattern** → Ready to use
-
-### Documentation & Content
-
-**Workflow:**
-1. **Write markdown** → In your editor
-2. **Convert to HTML** → Markdown to HTML [Link →](https://tools.devriq.in/markdown-to-html/)
-3. **Beautify HTML** → HTML Formatter [Link →](https://tools.devriq.in/html-formatter/)
-4. **Web-ready content** → Deploy!
 
 ---
 
-## ✨ Best Practices
+### [URL Encoder & Decoder](https://tools.devriq.in/url-encoder-decoder/)
 
-### Security
+**Encode and decode URLs, query strings, and URI components to percent-encoding format instantly.**
 
-✅ **DO:**
-- Use Base64/JWT tools with test data only
-- Never put real credentials in tools
-- Verify tool output before deployment
-- Clear browser history after sensitive work
+- 🚀 [**Launch Live Tool →**](https://tools.devriq.in/url-encoder-decoder/)
+- 📖 [**Complete User Documentation Guide →**](../tools/dev/url-encoder-decoder.md)
 
-❌ **DON'T:**
-- Paste production API keys
-- Share screen while using encoder tools
-- Trust tools with real passwords
-- Store sensitive output
+**Core Highlights:**
+  - Full & Component Encoding — Choose between `encodeURI` (full URLs) and `encodeURIComponent` (query parameters).
+  - UTF-8 Percent Encoding — Safely encodes spaces (`%20` or `+`), ampersands (`%26`), slashes, and Unicode emojis.
+  - Batch Multi-Line Support — Process lists of URLs and parameters simultaneously in bulk.
 
-### Performance
-
-✅ **DO:**
-- Minify production code
-- Test minified code thoroughly
-- Use appropriate compression levels
-- Keep optimization balanced with readability
-
-❌ **DON'T:**
-- Minify development code (hard to debug)
-- Over-optimize at expense of features
-- Skip testing after minification
-- Ignore source maps
-
-### Code Quality
-
-✅ **DO:**
-- Validate JSON before deployment
-- Test regex thoroughly
-- Format code for readability
-- Use proper URL encoding
-
-❌ **DON'T:**
-- Deploy unvalidated JSON
-- Use untested regex in production
-- Trust auto-formatting completely
-- Assume encoding is correct
 
 ---
 
-## ❓ FAQ
+## 🔒 Security & Privacy Architecture
 
-**Q: Is it safe to minify production code?**
-A: Yes! All minifiers are tested and production-ready. Test your code after minification to ensure functionality.
+All developer utilities operate under DevriQ's strict privacy-first architecture:
+- **Client-Side Execution**: Data processing runs inside your browser using JavaScript and WebAssembly.
+- **No Data Retention**: Your inputs, files, and outputs are never stored on external databases.
+- **GDPR Compliant**: Zero telemetry tracking, no analytics profiling, and zero commercial data reselling.
 
-**Q: Can I test with real API keys?**
-A: Not recommended! Use test credentials instead. All processing is local but privacy-first approach means security.
-
-**Q: What regex flavors do you support?**
-A: JavaScript regex (ECMAScript). [Regex Tester →](https://tools.devriq.in/regex-tester/)
-
-**Q: Does formatting preserve code logic?**
-A: Yes! Formatting tools preserve all functionality — they just reorganize whitespace and structure.
-
-**Q: Can I batch process multiple files?**
-A: Most tools support multiple items at once. Check individual tool for batch options.
+Learn more in our [Privacy First Architecture Guide](../PRIVACY_FIRST.md).
 
 ---
 
-## 📚 Related Resources
+## 🔗 Platform Navigation
 
-- **[PDF Tools](./PDF_TOOLS.md)** — Document handling
-- **[Image Tools](./IMAGE_TOOLS.md)** — Visual content
-- **[Getting Started](../GETTING_STARTED.md)** — Quick start
-- **[API Documentation](https://tools.devriq.in/api-docs/)** — Programmatic access
-
----
-
-## 💡 Pro Tips
-
-**Bookmark Your Favorites:**
-- Save frequently used tools
-- Browser bookmarks for quick access
-- Organize by workflow
-
-**Keyboard Shortcuts:**
-- Most tools support keyboard shortcuts
-- Check tool help (?) for details
-- Ctrl+Enter often submits forms
-
-**Combine Tools:**
-- Use output from one as input for another
-- Create efficient workflows
-- Automate repetitive tasks
+- 🏠 [**Platform Homepage**](https://tools.devriq.in/)
+- 🗂️ [**All Tools Directory**](https://tools.devriq.in/all-tools/) | [**Markdown Directory**](../TOOLS_DIRECTORY.md)
+- ⚡ [**Strategic Workflows & Multi-Tool Solutions**](../WORKFLOWS_AND_SOLUTIONS.md)
+- 🚀 [**Getting Started Guide**](../GETTING_STARTED.md)
 
 ---
 
-**Return to:** [All Categories](../../README.md#-complete-tools-directory) | [Platform Home](https://tools.devriq.in/)
-
-**Last Updated**: April 2, 2026 | **Status**: Current ✅
-
----
-
-© 2026 DevriQ Tools. All rights reserved. [Privacy Policy](https://tools.devriq.in/privacy-policy/) | [Terms](https://tools.devriq.in/terms/)
+*DevriQ Tools — High-performance, privacy-first web utilities for professionals worldwide.*

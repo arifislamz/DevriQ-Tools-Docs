@@ -47,7 +47,7 @@ Thank you for your interest in contributing to the DevriQ Tools documentation! T
 - Include links to live tools
 
 #### 🔗 **Linking Standards**
-- **Internal links**: Use relative paths `[Guide](./docs/category/file.md)`
+- **Internal links**: Use relative paths `[Guide](./docs/TOOLS_DIRECTORY.md)`
 - **External links**: Link to `https://tools.devriq.in/tool-name/`
 - **Always provide anchor text** — no bare URLs
 - **Test all links** before submitting

@@ -255,14 +255,14 @@ Most tools follow this structure:
 - **📄 PDF Editing:** [PDF Tools Guide →](../categories/PDF_TOOLS.md)
 - **🖼️ Images:** [Image Tools Guide →](../categories/IMAGE_TOOLS.md)
 - **💻 Development:** [Dev Utils Guide →](../categories/DEV_UTILITIES.md)
-- **🎨 Design:** [Color Picker Guide →](../tools/image/color-picker-palette.md)
+- **🎨 Design:** [Color Picker Guide →](../tools/dev/advanced-color-picker-palette-generator.md)
 - **📱 Social:** [Social Media Guide →](../categories/SOCIAL_MEDIA.md)
 
 ### Feature Tutorials
 
 - **[Merging PDFs](../tools/pdf/merge-pdf.md)** — Combine documents
 - **[Compressing Images](../tools/image/image-compressor.md)** — Optimize files
-- **[Formatting Code](../tools/dev/json-formatter.md)** — Clean up code
+- **[Formatting Code](../tools/dev/online-json-formatter-validator.md)** — Clean up code
 - **[Removing Backgrounds](../tools/image/background-remover.md)** — AI-powered editing
 
 ---
@@ -276,13 +276,13 @@ Most tools follow this structure:
 → [Image Compressor](../tools/image/image-compressor.md) | [Live Tool →](https://tools.devriq.in/image-compressor/)
 
 ### Task 3: Format JSON Code
-→ [JSON Formatter](../tools/dev/json-formatter.md) | [Live Tool →](https://tools.devriq.in/online-json-formatter-validator/)
+→ [JSON Formatter](../tools/dev/online-json-formatter-validator.md) | [Live Tool →](https://tools.devriq.in/online-json-formatter-validator/)
 
 ### Task 4: Convert PDF to Word
 → [PDF to Word](../tools/pdf/pdf-to-word.md) | [Live Tool →](https://tools.devriq.in/pdf-to-word/)
 
 ### Task 5: Generate QR Code
-→ [QR Code Generator](../tools/dev/qr-code-generator.md) | [Live Tool →](https://tools.devriq.in/free-qr-code-generator/)
+→ [QR Code Generator](../tools/dev/free-qr-code-generator.md) | [Live Tool →](https://tools.devriq.in/free-qr-code-generator/)
 
 ---
 

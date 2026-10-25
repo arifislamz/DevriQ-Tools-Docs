@@ -258,7 +258,7 @@ You can clear cookies anytime in browser settings.
 **Q: Does PDF to Word preserve formatting?**  
 **A:** Mostly yes! [PDF to Word →](https://tools.devriq.in/pdf-to-word/) preserves text, fonts, and layout well, but some complex designs may need adjustment.
 
-[All PDF Tools →](../categories/PDF_TOOLS.md) | [PDF Tool Category →](https://tools.devriq.in/category/pdf/)
+[All PDF Tools →](./categories/PDF_TOOLS.md) | [PDF Tool Category →](https://tools.devriq.in/category/pdf/)
 
 ### Image Tools
 
@@ -274,7 +274,7 @@ You can clear cookies anytime in browser settings.
 **Q: Can I batch process images?**  
 **A:** Yes! [Image Resizer →](https://tools.devriq.in/image-resizer/) and other tools support batch processing. Check individual tool for details.
 
-[All Image Tools →](../categories/IMAGE_TOOLS.md) | [Image Tool Category →](https://tools.devriq.in/category/image/)
+[All Image Tools →](./categories/IMAGE_TOOLS.md) | [Image Tool Category →](https://tools.devriq.in/category/image/)
 
 ### Developer Tools
 
@@ -295,7 +295,7 @@ Use results directly or review as needed.
 - All processing is local
 - But always assume security tools aren't private
 
-[All Dev Tools →](../categories/DEV_UTILITIES.md) | [Dev Tool Category →](https://tools.devriq.in/category/dev/)
+[All Dev Tools →](./categories/DEV_UTILITIES.md) | [Dev Tool Category →](https://tools.devriq.in/category/dev/)
 
 ---
 
